@@ -1,4 +1,4 @@
-import CardIcon from '../Card/CardIcon';
+import CardIcon from '../Cart/CardIcon';
 import classes from './HeaderCartButton.module.css';
 
 const HeaderCardButton = props => {
